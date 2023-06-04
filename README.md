@@ -12,9 +12,11 @@ Neste perfil do GitHub, você encontrará uma variedade de projetos interessante
 
 Aqui estão alguns projetos que acredito serem representativos do meu trabalho:
 
-1. **Escaner de rede ([link para o projeto](https://github.com/italomanzine/network-scanner-tcp-udp))**: A network scanner for TCP and UDP sockets, developed to discover the UDP port used by a JWT token receiving service. Compare the behavior of transport protocols and identify open ports. Enhance and customize the code to efficiently detect ports. Contribute to the development of robust scanning solutions..
+1. **Escaner de rede ([link para o projeto](https://github.com/italomanzine/network-scanner-tcp-udp))**: A network scanner for TCP and UDP sockets, developed to discover the UDP port used by a JWT token receiving service. Compare the behavior of transport protocols and identify open ports. Enhance and customize the code to efficiently detect ports. Contribute to the development of robust scanning solutions.
 
-2. **Timing System ([link para o projeto](https://github.com/italomanzine/timingSystem))**: Sistema embarcado para realização de competições de natação, o sistema incluí o hardware e software tanto para a saída, bem como para a cronometragem precisa das competições.
+2. **ERP em C++ ([link para o projeto](https://github.com/italomanzine/programmingLogic2/tree/main/Trabalho%20Final))** Software de um ERP desenvolvido em C++ e interface gráfica em QT Creator com foco em treinar habilidades em Programação com Orientação a Objetos.
+
+3. **Timing System ([link para o projeto](https://github.com/italomanzine/timingSystem))**: Sistema embarcado para realização de competições de natação, o sistema incluí o hardware e software tanto para a saída, bem como para a cronometragem precisa das competições.
 
 ## Experiência Profissional
 
