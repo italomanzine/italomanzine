@@ -35,10 +35,10 @@ Aqui estão alguns projetos que acredito serem representativos do meu trabalho:
 Sinta-se à vontade para entrar em contato comigo por meio das seguintes plataformas:
 
 <div>
-<a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/italomanzine/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="[https://www.twitch.tv/seu-usuário-aqui](https://twitter.com/italomanzine)" target="_blank"><img src="(https://img.shields.io/twitter/url?style=social)" target="_blank"></a>
+<a href="https://www.instagram.com/italomanzine/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/italomanzine" target="_blank"><img src="(https://img.shields.io/twitter/url?style=social)" target="_blank"></a>
 <a href = "mailto:italomanzine@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/italomanzine/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/italomanzine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 Estou sempre aberto a novas oportunidades de colaboração e estou ansioso para fazer parte de projetos interessantes. Vamos nos conectar e criar coisas incríveis juntos!
