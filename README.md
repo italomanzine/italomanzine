@@ -22,7 +22,7 @@ Aqui estão alguns projetos que acredito serem representativos do meu trabalho:
 
 - **EJEC**: Gerente de projetos, atuando no gerenciamento de equipes para o desenvolvimento de projetos na Empresa Júnior de Engenharia de Computação.
 
-- **DTI Digital**: Estagiário de desenvolvimento com atuação em sustentação e manutenção de softwares.
+- **DTI Digital**: Estagiário de desenvolvimento com atuação em desenvolvimento, sustentação e manutenção de softwares.
 
 ## Habilidades
 
