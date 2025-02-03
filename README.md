@@ -44,7 +44,7 @@ Feel free to reach out to me through the following platforms:
 
 <div>
   <a href="https://www.instagram.com/italomanzine/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://twitter.com/italomanzine" target="_blank"><img src="https://img.shields.io/twitter/url?style=social" alt="Twitter"></a>
+  <a href="https://x.com/italomanzine" target="_blank"><img src="https://img.shields.io/twitter/url?style=social" alt="Twitter"></a>
   <a href="mailto:italomanzine@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/italomanzine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
