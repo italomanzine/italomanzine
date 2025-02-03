@@ -1,48 +1,54 @@
-# Bem-vindo ao meu perfil do GitHub!
+# Welcome to My GitHub Profile!
 
-## Sobre mim
+## About Me
 
-Olá! Meu nome é Ítalo Manzine, e sou um atleta olímpico de natação apaixonado por esportes, tecnologias e engenharia de software. Minha jornada no esporte me proporcionou uma base sólida de habilidades, como disciplina, resiliência, foco e trabalho em equipe, que são extremamente valiosas no mundo da tecnologia.
+Hello! I'm Ítalo Manzine – a former Olympic swimmer turned Software Engineer with a passion for sports, technology, and software development. My athletic career taught me discipline, resilience, focus, and teamwork, qualities that I bring to every tech project I work on.
 
-Desde a infância, fui movido por uma curiosidade inata em entender como as coisas funcionam, e essa curiosidade me levou a mergulhar de cabeça no universo da tecnologia. Hoje, cursando Engenharia de Computação na UFSC despertei um interesse enorme pela área de engenharia de software e de desenvolvimento e estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades.
+Since childhood, I have been driven by a natural curiosity to understand how things work. This curiosity led me to dive into the world of technology. Currently studying Computer Engineering at UFSC, I am deeply interested in software engineering and development. I am always eager to learn new technologies, refine my skills, and experiment with innovative ideas.
 
-Neste perfil do GitHub, você encontrará uma variedade de projetos interessantes que demonstram minha paixão pela tecnologia e minha capacidade de aplicar minhas softskills no desenvolvimento de software e também me arriscando em alguns projetos de hardware. Estou sempre trabalhando em projetos pessoais, experimentando novas ideias e compartilhando meu código com a comunidade.
+This GitHub profile showcases a range of projects that reflect my passion for technology. From software development to hardware experiments, my projects highlight both my technical abilities and my soft skills.
 
-## Projetos Destacados
+## Featured Projects
 
-Aqui estão alguns projetos que acredito serem representativos do meu trabalho:
+Here are some of the projects that best represent my work:
 
-1. **Escaner de rede ([link para o projeto](https://github.com/italomanzine/network-scanner-tcp-udp))**: A network scanner for TCP and UDP sockets, developed to discover the UDP port used by a JWT token receiving service. Compare the behavior of transport protocols and identify open ports. Enhance and customize the code to efficiently detect ports. Contribute to the development of robust scanning solutions.
+1. **Network Scanner ([View Project](https://github.com/italomanzine/network-scanner-tcp-udp))**  
+   A network scanner for TCP and UDP sockets designed to discover the UDP port used by a JWT token receiving service. The project compares the behavior of different transport protocols and efficiently detects open ports. It's a robust tool for understanding network communications.
 
-2. **ERP em C++ ([link para o projeto](https://github.com/italomanzine/programmingLogic2/tree/main/Trabalho%20Final))** Software de um ERP desenvolvido em C++ e interface gráfica em QT Creator com foco em treinar habilidades em Programação com Orientação a Objetos.
+2. **ERP in C++ ([View Project](https://github.com/italomanzine/programmingLogic2/tree/main/Trabalho%20Final))**  
+   A C++ ERP software with a graphical interface built in QT Creator. This project was developed to hone my object-oriented programming skills and demonstrates my ability to create comprehensive business solutions.
 
-3. **Timing System ([link para o projeto](https://github.com/italomanzine/timingSystem))**: Sistema embarcado para realização de competições de natação, o sistema incluí o hardware e software tanto para a saída, bem como para a cronometragem precisa das competições.
+3. **Timing System ([View Project](https://github.com/italomanzine/timingSystem))**  
+   An embedded system developed for organizing swimming competitions. The system integrates both hardware and software components to provide accurate timing and score management during events.
 
-## Experiência Profissional
+4. **Emergent Web Server Monitoring ([View Project](https://github.com/italomanzine/ews_project))**
+   A Python script that monitors an Emergent Web Server (EWS) running in a Docker container, collecting metrics like CPU usage, memory consumption, throughput, and response time. It applies algorithms to determine the optimal server configuration, with data saved in CSV files and visualization scripts provided.
 
-- **EJEC**: Gerente de projetos, atuando no gerenciamento de equipes para o desenvolvimento de projetos na Empresa Júnior de Engenharia de Computação.
+*Additional noteworthy projects may be added as my work continues to evolve.*
 
-- **DTI Digital**: Estagiário de desenvolvimento com atuação em desenvolvimento, sustentação e manutenção de softwares.
+## Professional Experience
 
-## Habilidades
+- **EJEC:** **Project Manager** – Led teams and managed projects within the Junior Company of Computer Engineering.
+- **DTI Digital:** **Software Engineer** – Contributed to software development, maintenance, and support, applying robust engineering practices to deliver high-quality solutions.
 
-<div>
-<a href="https://github.com/italomanzine">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomanzine&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=italomanzine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-## Contato
-
-Sinta-se à vontade para entrar em contato comigo por meio das seguintes plataformas:
+## Skills
 
 <div>
-<a href="https://www.instagram.com/italomanzine/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/italomanzine" target="_blank"><img src="(https://img.shields.io/twitter/url?style=social)" target="_blank"></a>
-<a href = "mailto:italomanzine@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/italomanzine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomanzine&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italomanzine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-Estou sempre aberto a novas oportunidades de colaboração e estou ansioso para fazer parte de projetos interessantes. Vamos nos conectar e criar coisas incríveis juntos!
+## Contact
 
-Obrigado pela visita e espero que você encontre algo útil e interessante em meu perfil do GitHub!
+Feel free to reach out to me through the following platforms:
+
+<div>
+  <a href="https://www.instagram.com/italomanzine/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://twitter.com/italomanzine" target="_blank"><img src="https://img.shields.io/twitter/url?style=social" alt="Twitter"></a>
+  <a href="mailto:italomanzine@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/italomanzine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
+I'm always open to collaboration and excited to work on innovative projects. Let's connect and create amazing things together!
+
+Thank you for visiting my GitHub profile – I hope you find my work interesting and useful!
